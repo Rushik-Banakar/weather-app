@@ -11,6 +11,14 @@ body{
     background-size: cover;
 }
 
+.title {
+    font-size: 36px;
+    font-weight: 600;
+    color: #afdbce;
+    margin-bottom: 20px; /* Add space between title and search box */
+}
+
+
 .card{
     width: 90%;
     max-width: 470px;
